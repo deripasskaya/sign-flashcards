@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300">
+    <title>
+        8.25 Экологический класс транспортного средства
+    </title>
+    <rect ry="45" rx="45" style="marker:none" width="600" height="300" overflow="visible" color="#000"/>
+    <rect ry="35" rx="35" style="marker:none" width="580" height="280" x="10" y="10" overflow="visible" color="#000" fill="#fff"/>
+    <path style="line-height:125%;-inkscape-font-specification:'Russian Road Sign'" word-spacing="0" letter-spacing="0" font-size="285.354" font-weight="400" d="M318.308 68.93l-77.901 103.868v23.97h75.904v31.96h27.965v-31.96h10.843l9.131-23.97h-21.972V68.93zm-1.997 41.947v61.921h-45.942z" font-family="Russian Road Sign"/>
+    <path d="M299.998 23A235.444 127 0 0 0 64.557 150a235.444 127 0 0 0 235.441 127 235.444 127 0 0 0 235.445-127A235.444 127 0 0 0 299.998 23zm0 27.654A207.831 99.348 0 0 1 507.831 150a207.831 99.348 0 0 1-207.833 99.35A207.831 99.348 0 0 1 92.168 150a207.831 99.348 0 0 1 207.83-99.346z" fill="#127f15"/>
+</svg>

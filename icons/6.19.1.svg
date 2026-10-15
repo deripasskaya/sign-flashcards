@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1500"
+   height="2000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="6.19.2.svg">
+  <title
+     id="title3002">6.19.1 Предварительный указатель перестроения на другую проезжую часть</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="651.29403"
+     inkscape:cy="1158.8127"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>6.19.1 Предварительный указатель перестроения на другую проезжую часть</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004
+Размеры и пропорции по типоразмеру IV</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,947.6378)">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       id="rect10858"
+       width="1500"
+       height="2000"
+       x="0"
+       y="-947.63782"
+       rx="45"
+       ry="45" />
+    <rect
+       ry="25"
+       rx="25"
+       y="-927.63782"
+       x="20"
+       height="1960"
+       width="1460"
+       id="rect14407"
+       style="opacity:1;color:#000000;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       ry="44"
+       rx="44"
+       y="-946.63782"
+       x="1"
+       height="1998"
+       width="1498"
+       id="rect13604"
+       style="opacity:1;color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 45 10 C 25.61 10 10 25.61 10 45 L 10 1955 C 10 1974.39 25.61 1990 45 1990 L 1455 1990 C 1474.39 1990 1490 1974.39 1490 1955 L 1490 45 C 1490 25.61 1474.39 10 1455 10 L 45 10 z M 45 20 L 250 20 L 250 1062.5 L 145.84375 1062.5 L 312.5 1351.375 L 479.15625 1062.5 L 375 1062.5 L 375 20 L 645.84375 20 L 645.84375 575 C 645.84375 602.7 668.14376 625 695.84375 625 L 804.15625 625 C 831.85625 625 854.15625 602.7 854.15625 575 L 854.15625 20 L 1455 20 C 1468.85 20 1480 31.15 1480 45 L 1480 1955 C 1480 1968.85 1468.85 1980 1455 1980 L 1187.5 1980 L 1187.5 1416.6562 C 1187.5 1355.8775 1163.3521 1297.6021 1120.375 1254.625 L 787.4375 921.71875 L 861.09375 848.0625 L 538.96875 761.625 L 625.40625 1083.75 L 699.0625 1010.0938 L 1031.9688 1343.0312 C 1051.5038 1362.5663 1062.5 1389.0295 1062.5 1416.6562 L 1062.5 1980 L 854.15625 1980 L 854.15625 1425 C 854.15625 1397.3 831.85625 1375 804.15625 1375 L 695.84375 1375 C 668.14376 1375 645.84375 1397.3 645.84375 1425 L 645.84375 1980 L 45 1980 C 31.15 1980 20 1968.85 20 1955 L 20 45 C 20 31.15 31.15 20 45 20 z "
+       id="rect13449"
+       transform="translate(0,-947.6378)" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1166.6666,-697.63785 c -138.0712,0 -249.99999,111.9289 -249.99999,250.0001 0,138.0712 111.92879,250 249.99999,250 138.0712,0 250,-111.9288 250,-250 0,-138.0712 -111.9288,-250.0001 -250,-250.0001 z m 0,42.2684 c 114.7266,0 207.7317,93.0052 207.7317,207.7317 0,114.7266 -93.0051,207.7317 -207.7317,207.7317 -114.7265,0 -207.73169,-93.0051 -207.73169,-207.7317 0,-114.7265 93.00519,-207.7317 207.73169,-207.7317 z"
+       id="path4775-9" />
+    <path
+       transform="matrix(9.3966308,0,0,7.0500283,1990.9452,-3495.0828)"
+       d="m -65.613615,432.25998 a 22.107042,29.465372 0 1 1 -44.214085,0 22.107042,29.465372 0 1 1 44.214085,0 z"
+       sodipodi:ry="29.465372"
+       sodipodi:rx="22.107042"
+       sodipodi:cy="432.25998"
+       sodipodi:cx="-87.720657"
+       id="path14467"
+       style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+  </g>
+</svg>

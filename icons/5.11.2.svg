@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="700"
+   height="700"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="5.11.2.svg">
+  <title
+     id="title3002">5.11.2 Дорога с полосой для велосипедистов</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="339.58409"
+     inkscape:cy="347.04639"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="false"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-nodes="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="false"
+     inkscape:snap-midpoints="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>5.11.2 Дорога с полосой для велосипедистов</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004
+Размеры и пропорции по типоразмеру II</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-352.36218)">
+    <rect
+       ry="45"
+       rx="45"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       id="rect7667"
+       width="700"
+       height="700"
+       x="0"
+       y="352.36218" />
+    <path
+       style="color:#000000;fill:#0d69e1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 45 20 C 31.15 20 20 31.15 20 45 L 20 655 C 20 668.85 31.15 680 45 680 L 338.34375 680 L 338.34375 20 L 45 20 z M 361.65625 20 L 361.65625 680 L 490 680 L 490 233.34375 L 431.65625 233.34375 L 525 71.6875 L 618.34375 233.34375 L 560 233.34375 L 560 680 L 655 680 C 668.85 680 680 668.85 680 655 L 680 45 C 680 31.15 668.85 20 655 20 L 361.65625 20 z M 138.59375 123.28125 L 160.3125 123.28125 C 162.80677 123.28125 164.84375 125.27756 164.84375 127.75 C 164.84375 130.2224 162.80677 132.25 160.3125 132.25 L 138.59375 132.25 C 134.54048 132.25 131.25 135.48234 131.25 139.5 C 131.25 142.12724 132.93147 144.45727 135.4375 145.3125 C 141.58866 147.41199 145.71875 153.1764 145.71875 159.625 C 145.71875 160.96151 145.53778 162.2804 145.1875 163.5625 L 222.71875 163.5625 L 225.375 157.40625 L 205.46875 157.40625 C 201.72726 157.40625 198.71875 154.39614 198.71875 150.6875 C 198.71875 146.97885 201.72726 143.96875 205.46875 143.96875 L 236.53125 143.96875 C 240.27271 143.96875 243.3125 146.97885 243.3125 150.6875 C 243.3125 154.39614 240.27271 157.40625 236.53125 157.40625 L 234 157.40625 L 229.90625 166.875 L 246.90625 190.90625 C 252.82065 188.0877 259.46738 186.5 266.46875 186.5 C 291.41187 186.5 311.625 206.55689 311.625 231.28125 C 311.625 256.00564 291.41187 276.0625 266.46875 276.0625 C 243.6324 276.0625 224.74482 259.24913 221.71875 237.4375 L 195.25 237.4375 L 132.90625 190.1875 L 129.3125 197.8125 C 138.62429 206.01291 144.5 217.96333 144.5 231.28125 C 144.5 256.00564 124.28686 276.0625 99.34375 276.0625 C 74.40057 276.0625 54.1875 256.00564 54.1875 231.28125 C 54.1875 206.55689 74.40057 186.5 99.34375 186.5 C 107.54501 186.5 115.24565 188.68116 121.875 192.46875 L 135.46875 163.5625 L 136.09375 162.21875 C 136.47698 161.40416 136.6875 160.52386 136.6875 159.625 C 136.6875 156.99784 135.00597 154.63659 132.5 153.78125 C 126.34873 151.68183 122.21875 145.94861 122.21875 139.5 C 122.21875 130.53741 129.55178 123.28125 138.59375 123.28125 z M 141.9375 173.625 L 137.3125 180.8125 L 196.125 225.375 L 218.40625 173.625 L 141.9375 173.625 z M 226.75 179.9375 L 206.34375 227.375 L 221.4375 227.375 C 222.53556 214.81274 228.88794 203.75159 238.28125 196.3125 L 226.75 179.9375 z M 98.34375 193.21875 C 77.6 193.73972 60.96875 210.59393 60.96875 231.28125 C 60.96875 252.29702 78.14206 269.3125 99.34375 269.3125 C 120.54541 269.3125 137.75 252.29702 137.75 231.28125 C 137.75 220.68468 133.36316 211.08694 126.3125 204.1875 L 117.6875 222.5625 C 116.26752 225.58084 113.94091 228.0849 111.03125 229.75 L 101.59375 235.15625 C 99.4336 236.39242 96.68457 235.67241 95.4375 233.53125 C 94.19026 231.39005 94.93353 228.64247 97.09375 227.40625 L 106.5 222 C 107.80433 221.25355 108.86343 220.13431 109.5 218.78125 L 119 198.59375 C 113.25197 195.19269 106.52435 193.21875 99.34375 193.21875 C 99.01247 193.21875 98.67302 193.21075 98.34375 193.21875 z M 266.46875 193.21875 C 260.91288 193.21875 255.64249 194.39517 250.875 196.5 L 272.9375 227.75 C 274.90469 230.53476 274.21566 234.36255 271.40625 236.3125 C 270.36231 237.03707 269.11817 237.4375 267.84375 237.4375 L 228.5625 237.4375 C 231.53365 255.52258 247.38388 269.3125 266.46875 269.3125 C 287.67041 269.3125 304.84375 252.29702 304.84375 231.28125 C 304.84375 210.26556 287.67041 193.21875 266.46875 193.21875 z M 242.1875 201.78125 C 234.53293 207.9813 229.3132 217.0907 228.25 227.375 L 260.25 227.375 L 242.1875 201.78125 z M 210 350 L 210 466.65625 L 268.34375 466.65625 L 175 628.3125 L 81.65625 466.65625 L 140 466.65625 L 140 350.125 L 210 350 z "
+       transform="translate(0,352.36218)"
+       id="rect8136" />
+    <rect
+       y="353.36218"
+       x="1"
+       height="698"
+       width="698"
+       id="rect7101"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       rx="44"
+       ry="44" />
+  </g>
+</svg>

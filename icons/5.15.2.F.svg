@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700" viewBox="0 0 700 700">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+      }
+
+      .b {
+        fill: none;
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .c {
+        fill: #0d69e1;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="a" width="700" height="700" rx="45"/>
+    <rect class="b" x="1" y="1" width="698" height="698" rx="44"/>
+    <path class="c" d="M45,20A25,25,0,0,0,20,45V655a25,25,0,0,0,25,25H233.34V606.66h23.32V680H373.34V466.66a70,70,0,0,0-70-70h-35V455L105,361.66l163.34-93.32v58.32h35a139.26,139.26,0,0,1,70,18.75V233.34H315L408.34,70l93.32,163.34H443.34V680H560V606.66h23.34V680H655a25,25,0,0,0,25-25V45a25,25,0,0,0-25-25ZM583.34,396.66H560v-70h23.34Zm0,93.34H560V420h23.34Zm0,93.34H560v-70h23.34Zm-326.68,0H233.34v-70h23.32Z" transform="translate(0 0)"/>
+  </g>
+</svg>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="300"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="8.6.1.svg">
+  <title
+     id="title3006">8.6.2 Способ постановки транспортного средства на стоянку</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="295.93753"
+     inkscape:cy="120.86608"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>8.6.2 Способ постановки транспортного средства на стоянку</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004
+Размеры и пропорции по типоразмеру I</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-752.36218)">
+    <rect
+       y="752.36218"
+       x="0"
+       height="300"
+       width="600"
+       id="rect5622"
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       rx="45"
+       ry="45" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       d="M 45,10 C 25.61,10 10,25.61 10,45 l 0,208.125 290,0 0,-28.125 290,0 0,-180 C 590,25.61 574.39,10 555,10 z"
+       transform="translate(0,752.36218)"
+       id="rect9537"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssccccsss" />
+    <path
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 318.59375 51.1875 C 318.03749 51.20445 317.47093 51.261616 316.9375 51.375 L 263 62.84375 L 209.03125 74.3125 C 204.76385 75.21953 200.90862 79.45122 200.375 83.78125 L 198.40625 99.84375 L 194.28125 133.09375 C 194.27725 133.12465 194.28531 133.1566 194.28125 133.1875 L 193.3125 140.90625 C 187.21619 142.20206 183.36043 148.15363 184.65625 154.25 L 194.03125 198.28125 C 195.32705 204.37753 201.27869 208.23332 207.375 206.9375 L 372.40625 171.84375 C 378.50255 170.54794 382.38955 164.59628 381.09375 158.5 L 371.71875 114.5 C 370.42294 108.40372 364.47131 104.51669 358.375 105.8125 L 354.375 99.15625 C 354.3596 99.12995 354.3282 99.0888 354.3125 99.0625 L 337.0625 70.34375 L 328.71875 56.5 C 326.75102 53.228751 322.48759 51.068852 318.59375 51.1875 z M 316.75 63 C 318.69686 62.940688 320.82871 64.020604 321.8125 65.65625 L 347.375 108.15625 L 275.84375 123.375 L 204.34375 138.5625 L 210.40625 89.34375 C 210.67306 87.17878 212.58516 85.04722 214.71875 84.59375 L 265.34375 73.84375 L 315.9375 63.09375 C 316.2042 63.037061 316.47188 63.008473 316.75 63 z "
+       transform="translate(0,752.36218)"
+       id="path13972" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 208.52906,964.79921 4.67801,22.00828 c 1.9377,9.11616 10.89863,14.93541 20.01476,12.99778 9.11611,-1.93771 14.93541,-10.89862 12.99771,-20.01478 l -4.67801,-22.00828 -33.01247,7.017 z"
+       id="path13974" />
+    <path
+       id="path13978"
+       d="m 340.57898,936.73112 4.67802,22.00828 c 1.9377,9.11616 10.89863,14.9355 20.01475,12.99778 9.11612,-1.93772 14.93542,-10.89862 12.99773,-20.01478 l -4.67801,-22.00828 -33.01249,7.017 z"
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

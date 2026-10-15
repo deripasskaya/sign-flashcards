@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1050"
+   height="350"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="6.15.1.svg">
+  <title
+     id="title3002">6.15.1 Направление движения для грузовых автомобилей</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="629.66927"
+     inkscape:cy="177.55094"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>6.15.1 Направление движения для грузовых автомобилей</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004
+Размеры и пропорции по типоразмеру II</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-702.36218)">
+    <rect
+       y="702.36218"
+       x="0"
+       height="350"
+       width="1050"
+       id="rect7193"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       rx="45"
+       ry="45" />
+    <rect
+       y="703.36218"
+       x="1"
+       height="348"
+       width="1048"
+       id="rect7101"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       rx="44"
+       ry="44" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;fill:#0d69e1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 45,712.36216 c -19.39,0 -35,15.61 -35,35 l 0,260.00004 c 0,19.39 15.61,35 35,35 l 95,0 0,-112.50004 -52.5,0 87.5,-151.65625 87.5,151.65625 -52.5,0 0,112.50004 795,0 c 19.39,0 35,-15.61 35,-35 l 0,-260.00004 c 0,-19.39 -15.61,-35 -35,-35 l -960,0 z m 606,42.5 235.8125,0 c 11.8764,0 21.4375,9.56112 21.4375,21.4375 l 0,151.03125 -278.6875,0 0,-151.03125 c 0,-11.87638 9.56113,-21.4375 21.4375,-21.4375 z m -116.4375,65.28125 60.6875,0 c 11.8396,0 21.4375,9.59789 21.4375,21.4375 l 0,98.59375 186.65625,0 c -14.6727,6.90874 -24.97747,21.50019 -25.78125,38.59375 l -167.375,0 c -1.12205,-23.86484 -20.79502,-42.875 -44.9375,-42.875 -24.14249,0 -43.81546,19.01016 -44.9375,42.875 l -19.375,0 c -11.83961,0 -21.4375,-9.59787 -21.4375,-21.4375 l 0,-65.90625 c 0,-4.2718 1.26747,-8.45851 3.65625,-12 l 33.625,-49.84375 c 3.98512,-5.90824 10.65468,-9.4375 17.78125,-9.4375 z m 1.125,12.84375 c -3.56323,0 -6.88248,1.79588 -8.875,4.75 l -20.25,30 c -1.19439,1.77075 -1.84375,3.86409 -1.84375,6 0,5.9198 4.79889,10.71875 10.71875,10.71875 l 69.09375,0 c 5.91986,0 10.71875,-4.79895 10.71875,-10.71875 l 0,-30.03125 c 0,-5.91982 -4.79889,-10.71875 -10.71875,-10.71875 l -48.84375,0 z m 305.96875,107.1875 66.59375,0 0,38.59375 -40.8125,0 C 866.6338,961.67485 856.32895,947.0834 841.65625,940.17466 z M 565.25,944.48716 c 20.12734,0 36.4375,16.31014 36.4375,36.4375 0,20.12724 -16.31016,36.43754 -36.4375,36.43754 -20.12735,0 -36.4375,-16.3103 -36.4375,-36.43754 0,-20.12736 16.31015,-36.4375 36.4375,-36.4375 z m 257.25,0 c 20.1273,0 36.4375,16.31014 36.4375,36.4375 0,20.12724 -16.3102,36.43754 -36.4375,36.43754 -20.12736,0 -36.4375,-16.3103 -36.4375,-36.43754 0,-20.12736 16.31014,-36.4375 36.4375,-36.4375 z m -257.25,17.125 c -10.65562,0 -19.28125,8.65684 -19.28125,19.3125 0,10.65566 8.62563,19.28124 19.28125,19.28124 10.65561,0 19.28125,-8.62558 19.28125,-19.28124 0,-10.65566 -8.62564,-19.3125 -19.28125,-19.3125 z m 257.25,0 c -10.65566,0 -19.28125,8.65684 -19.28125,19.3125 0,10.65566 8.62559,19.28124 19.28125,19.28124 10.6556,0 19.28125,-8.62558 19.28125,-19.28124 0,-10.65566 -8.62565,-19.3125 -19.28125,-19.3125 z"
+       id="rect7994" />
+  </g>
+</svg>

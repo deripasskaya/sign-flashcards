@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="700"
+   height="700"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="6.3.1.svg">
+  <title
+     id="title14100">6.3.2 Зона для разворота</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="318.85758"
+     inkscape:cy="332.70836"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>6.3.2 Зона для разворота</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004
+Размеры и пропорции по типоразмеру II</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-352.36218)">
+    <rect
+       ry="45"
+       rx="45"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       id="rect7667"
+       width="700"
+       height="700"
+       x="0"
+       y="352.36218" />
+    <path
+       style="opacity:1;color:#000000;fill:#0d69e1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 45 20 C 31.15 20 20 31.15 20 45 L 20 655 C 20 668.85 31.15 680 45 680 L 448 680 L 448 490 C 448 435.87609 404.12391 392 350 392 C 295.87609 392 252 435.87609 252 490 L 303.34375 490 L 221.46875 630 L 140 490 L 191.34375 490 C 191.34375 402.37081 262.37082 331.34375 350 331.34375 C 386.987 331.34375 421.01899 343.97014 448 365.1875 L 448 228.65625 C 448 205.6162 439.87236 183.30596 425.0625 165.65625 C 392.29858 126.60974 335.56559 119.56892 294.4375 147.9375 L 327.125 186.90625 L 167.28125 214.1875 L 222.1875 61.78125 L 255.34375 101.34375 C 283.21973 80.57584 315.96701 70.26678 348.625 70 C 394.34448 69.6265 439.87859 88.92808 471.5625 126.6875 C 495.54037 155.26321 508.65625 191.3533 508.65625 228.65625 L 508.65625 490 L 508.65625 513.90625 L 508.65625 680 L 655 680 C 668.85 680 680 668.85 680 655 L 680 45 C 680 31.15 668.85 20 655 20 L 45 20 z M 119.4375 240.4375 L 132.21875 240.4375 L 132.21875 325.59375 L 117.3125 325.59375 L 117.3125 259.59375 L 105.90625 266.75 L 100.875 260.21875 L 119.4375 240.4375 z M 151.75 240.4375 L 200.71875 240.4375 L 196.46875 254.28125 L 165.59375 254.28125 L 165.59375 274.5 C 167.26347 272.41525 169.38101 271.00414 171.90625 270.25 C 174.43142 269.49598 176.93126 269.1432 179.4375 269.1875 C 185.62531 269.23191 191.33733 271.52498 196.59375 276.09375 C 201.85005 280.66262 204.66726 287.2203 205 295.78125 C 204.88904 304.51969 201.89544 311.81418 196.0625 317.625 C 190.22944 323.43583 182.22435 326.43447 172 326.65625 C 166.9654 326.47882 162.38429 325.77325 158.28125 324.53125 C 154.17817 323.28924 151.99396 322.58368 151.75 322.40625 L 149.625 308.5625 C 152.29278 310.27028 155.44419 311.41386 159.0625 312 C 162.68078 312.58616 166.26344 312.8537 169.84375 312.8125 C 174.36818 312.81251 178.63279 311.50521 182.625 308.84375 C 186.61713 306.18232 188.76506 302.16667 189.03125 296.84375 C 189.00902 292.91815 187.70675 289.35406 185.15625 286.09375 C 182.60565 282.83352 178.93774 281.07465 174.125 280.875 C 170.93123 281.07465 168.25413 282.02414 166.125 283.6875 C 163.99582 285.35094 162.4083 286.54938 161.34375 287.28125 L 151.75 281.96875 L 151.75 240.4375 z M 229 266 L 241.75 266 L 256.65625 295.78125 L 271.5625 266 L 284.34375 266 L 289.65625 325.59375 L 276.90625 325.59375 L 273.6875 284.09375 L 256.65625 318.15625 L 239.625 284.09375 L 236.4375 325.59375 L 223.65625 325.59375 L 229 266 z "
+       transform="translate(0,352.36218)"
+       id="rect9536" />
+    <rect
+       y="353.36218"
+       x="1"
+       height="698"
+       width="698"
+       id="rect7101"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1.99999988000000010;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       rx="44"
+       ry="44" />
+  </g>
+</svg>

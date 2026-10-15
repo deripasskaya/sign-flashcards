@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="300"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="8.15.svg">
+  <title
+     id="title3006">8.16 Влажное покрытие</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="362.37111"
+     inkscape:cy="133.32582"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>8.16 Влажное покрытие</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004
+Размеры и пропорции по типоразмеру I</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-752.36218)">
+    <rect
+       y="752.36218"
+       x="0"
+       height="300"
+       width="600"
+       id="rect5622"
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       rx="45"
+       ry="45" />
+    <rect
+       y="762.36212"
+       x="10"
+       height="280"
+       width="580"
+       id="rect9537"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       rx="35"
+       ry="35" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+       d="M 368.25 38.0625 C 307.94386 38.0625 278.05198 87.53837 275.5 97.0625 C 270.49125 88.38708 255.69096 71.71875 233.8125 71.71875 C 204.44741 71.71875 187.06391 101.84763 184.8125 110.25 C 182.7762 108.2137 174.77144 105.5082 166.96875 105.46875 C 143.57767 105.46875 131.75 125.06143 131.75 141.1875 C 131.75 160.6874 146.60609 175.82168 161.5 179.8125 C 206.26847 191.80816 298.27309 194.15625 300 194.15625 C 302.14524 194.17255 364.32983 194.45178 400.1875 184.84375 C 421.06387 179.24994 456.28125 149.53707 456.28125 110.4375 C 456.28125 68.54447 416.44603 38.62603 368.25 38.0625 z M 368.25 52.40625 C 416.32612 52.96838 441.65625 80.38041 441.65625 110.4375 C 441.65625 140.63082 416.41836 165.67154 393.5 171.8125 C 365.60672 179.28648 303.19897 180.24315 300 180.21875 C 298.27309 180.21875 208.97016 177.62431 165.9375 166.09375 C 155.55963 163.313 146.15625 155.46696 146.15625 141.1875 C 146.15625 129.78469 153.76995 119.71875 166.96875 119.71875 C 180.04179 119.78484 187.0625 130.82981 187.0625 138.1875 L 192.4375 138.1875 C 192.4375 115.15041 212.6389 85.96875 233.90625 85.96875 C 257.30814 85.96875 274.6875 117.54966 274.6875 138.1875 L 280.03125 138.1875 C 280.03125 104.15906 307.86789 52.40625 368.25 52.40625 z "
+       transform="translate(0,752.36218)"
+       id="path12651" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path12653"
+       d="m 168.75,953.92467 -18.75,42.18746 13.12501,0 18.74999,-42.18746 z"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+       d="m 225,972.67467 -18.75,42.18743 13.125,0 18.75,-42.18743 z"
+       id="path12665"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path12667"
+       d="m 281.25,953.92467 -18.75,42.18746 13.125,0 18.75,-42.18746 z"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+       d="m 337.5,972.67467 -18.75,42.18743 13.125,0 18.75,-42.18743 z"
+       id="path12669"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path12671"
+       d="m 393.75,953.92467 -18.75,42.18746 13.125,0 18.75,-42.18746 z"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>

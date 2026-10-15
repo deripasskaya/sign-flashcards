@@ -14,6 +14,9 @@
     { key: "prohibition", label: "Запрещающие" },
     { key: "mandatory", label: "Предписывающие" },
     { key: "special", label: "Особых предписаний" },
+    { key: "informational", label: "Информационные" },
+    { key: "service", label: "Сервиса" },
+    { key: "additional", label: "Дополнительной информации" },
   ];
 
   const STATUS = {

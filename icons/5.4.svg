@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900"
+   height="1350"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="5.4.svg">
+  <title
+     id="title3002">5.4 Конец дороги для автомобилей</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="330.43546"
+     inkscape:cy="376.82722"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>5.4 Конец дороги для автомобилей</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004
+Размеры и пропорции по типоразмеру III</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,297.63782)">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       id="rect10858"
+       width="900"
+       height="1350"
+       x="0"
+       y="-297.63782"
+       rx="45"
+       ry="45" />
+    <path
+       style="color:#000000;fill:#0d69e1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 45 20 C 31.192881 20 20 31.19288 20 45 L 20 1305 C 20 1318.8071 31.192881 1330 45 1330 L 855 1330 C 868.80712 1330 880 1318.8071 880 1305 L 880 45 C 880 31.19288 868.80712 20 855 20 L 45 20 z M 306.3125 478.125 L 450 478.125 L 593.6875 478.125 C 605.05176 478.125 617.20101 486.81903 620.90625 497.5625 L 634.625 537.375 L 663.09375 619.90625 C 663.12005 619.98215 663.0998 620.0493 663.125 620.125 L 669.78125 639.3125 C 686.0159 639.3125 699.09375 652.3591 699.09375 668.59375 L 699.09375 785.84375 C 699.09375 802.07842 686.0159 815.15625 669.78125 815.15625 L 230.21875 815.15625 C 213.98409 815.15625 200.90625 802.07842 200.90625 785.84375 L 200.90625 668.59375 C 200.90625 652.3591 213.98409 639.3125 230.21875 639.3125 L 236.875 620.125 C 236.9003 620.0494 236.88005 619.98215 236.90625 619.90625 L 265.375 537.375 L 279.09375 497.5625 C 282.79842 486.81903 294.94825 478.125 306.3125 478.125 z M 315.25 507.4375 C 309.56816 507.4375 303.47735 511.78451 301.625 517.15625 L 259.53125 639.3125 L 450 639.3125 L 640.46875 639.3125 L 598.34375 517.15625 C 596.49143 511.78451 590.43184 507.4375 584.75 507.4375 L 450 507.4375 L 315.25 507.4375 z M 625.8125 667.125 C 601.53591 667.125 581.875 686.81717 581.875 711.09375 C 581.875 735.37034 601.53591 755.0625 625.8125 755.0625 C 650.08908 755.0625 669.78125 735.37034 669.78125 711.09375 C 669.78125 686.81717 650.08908 667.125 625.8125 667.125 z M 274.1875 668.59375 C 249.91092 668.59375 230.21875 688.28592 230.21875 712.5625 C 230.21875 736.83909 249.91092 756.53125 274.1875 756.53125 C 298.46409 756.53125 318.125 736.83909 318.125 712.5625 C 318.125 688.28592 298.46409 668.59375 274.1875 668.59375 z M 230.21875 829.78125 L 318.125 829.78125 L 318.125 888.375 C 318.125 912.65159 298.46402 932.34375 274.1875 932.34375 C 249.91099 932.34375 230.21875 912.65159 230.21875 888.375 L 230.21875 829.78125 z M 581.875 829.78125 L 669.78125 829.78125 L 669.78125 888.375 C 669.78125 912.65159 650.08903 932.34375 625.8125 932.34375 C 601.53597 932.34375 581.875 912.65159 581.875 888.375 L 581.875 829.78125 z "
+       transform="translate(0,-297.63782)"
+       id="rect12220" />
+    <rect
+       rx="44"
+       y="-296.63782"
+       x="0.99999994"
+       height="1348"
+       width="898"
+       id="rect10868"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       ry="44" />
+    <path
+       style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 787.5 20 L 20 1237.5 L 20 1305 C 20 1318.8071 31.1929 1330 45 1330 L 112.5 1330 L 880 112.5 L 880 45 C 880 31.19288 868.80712 20 855 20 L 787.5 20 z "
+       transform="translate(0,-297.63782)"
+       id="rect12210" />
+  </g>
+</svg>

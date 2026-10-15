@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1050"
+   height="350"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="6.14.2 B.svg">
+  <title
+     id="title3002">6.14.2 Номер маршрута</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="690.04368"
+     inkscape:cy="147.72358"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>6.14.2 Номер маршрута</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004
+Размеры и пропорции по типоразмеру II</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-702.36218)">
+    <rect
+       y="702.36218"
+       x="0"
+       height="350"
+       width="1050"
+       id="rect7193"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       rx="45"
+       ry="45" />
+    <rect
+       y="703.36218"
+       x="1"
+       height="348"
+       width="1048"
+       id="rect7101"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       rx="44"
+       ry="44" />
+    <path
+       style="opacity:1;color:#000000;fill:#0d69e1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 740 10 C 720.61 10 705 25.61 705 45 L 705 305 C 705 324.39 720.61 340 740 340 L 1005 340 C 1024.39 340 1040 324.39 1040 305 L 1040 45 C 1040 25.61 1024.39 10 1005 10 L 740 10 z M 973.875 70.53125 L 933.65625 220.65625 L 893.90625 180.9375 L 801.59375 273.28125 L 771.125 242.8125 L 863.46875 150.46875 L 823.71875 110.75 L 973.875 70.53125 z "
+       transform="translate(0,702.36218)"
+       id="rect11421" />
+    <path
+       style="opacity:1;color:#000000;fill:#0d69e1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 45 10 C 25.61 10 10 25.61 10 45 L 10 305 C 10 324.39 25.61 340 45 340 L 660 340 C 679.39 340 695 324.39 695 305 L 695 45 C 695 25.61 679.39 10 660 10 L 45 10 z M 482.09375 96.34375 C 497.6796 96.897688 510.14834 104.57436 519.5 119.34375 C 528.85145 134.1134 533.66634 152.66026 533.90625 175 C 533.66634 198.41892 528.85145 217.28669 519.5 231.59375 C 510.14834 245.90085 497.6796 253.25661 482.09375 253.65625 C 466.50776 253.25661 454.03902 245.90085 444.6875 231.59375 C 435.33591 217.28669 430.55226 198.41892 430.3125 175 C 430.55226 151.58123 435.33591 132.71346 444.6875 118.40625 C 454.03902 104.09931 466.50776 96.743542 482.09375 96.34375 z M 188.375 98.28125 L 215.21875 98.28125 L 249.75 173.09375 L 284.28125 98.28125 L 311.15625 98.28125 L 328.40625 251.71875 L 299.625 251.71875 L 290.03125 138.5625 L 249.75 228.71875 L 209.46875 138.5625 L 199.875 251.71875 L 171.09375 251.71875 L 188.375 98.28125 z M 371.53125 98.28125 L 394.5625 98.28125 L 394.5625 251.71875 L 367.71875 251.71875 L 367.71875 132.8125 L 347.15625 145.6875 L 338.09375 133.90625 L 371.53125 98.28125 z M 482.09375 120.1875 C 474.58047 120.07344 468.59249 124.42681 464.09375 133.21875 C 459.5949 142.01093 457.27039 155.93158 457.15625 175 C 457.27039 194.06856 459.59491 207.98922 464.09375 216.78125 C 468.59249 225.57334 474.58046 229.9267 482.09375 229.8125 C 489.60689 229.9267 495.62612 225.57334 500.125 216.78125 C 504.62371 207.98923 506.91697 194.06857 507.03125 175 C 506.91697 155.93158 504.62371 142.01092 500.125 133.21875 C 495.62612 124.42681 489.60689 120.07345 482.09375 120.1875 z "
+       transform="translate(0,702.36218)"
+       id="rect11423" />
+  </g>
+</svg>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1400"
+   height="700"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="5.15.7 A.svg">
+  <title
+     id="title14100">5.15.7 Направление движения по полосам</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="694.0669"
+     inkscape:cy="334.44063"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>5.15.7 Направление движения по полосам</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004
+Размеры и пропорции по типоразмеру II</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-352.36218)">
+    <rect
+       ry="45"
+       rx="45"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       id="rect7667"
+       width="1400"
+       height="700"
+       x="0"
+       y="352.36218" />
+    <rect
+       y="353.36218"
+       x="1"
+       height="698"
+       width="1398"
+       id="rect7101"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1.99999988000000010;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       rx="44"
+       ry="44" />
+    <path
+       style="opacity:1;color:#000000;fill:#0d69e1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 45 20 C 31.15 20 20 31.15 20 45 L 20 655 C 20 668.85 31.15 680 45 680 L 466.65625 680 L 466.65625 20 L 280 20 L 280 466.65625 L 338.34375 466.65625 L 245 630 L 151.65625 466.65625 L 210 466.65625 L 210 20 L 45 20 z M 490 20 L 490 680 L 665 680 L 665 496.3125 C 617.6637 481.44811 583.34375 437.24147 583.34375 385 C 583.34375 332.75842 617.6637 288.55188 665 273.6875 L 665 233.34375 L 606.65625 233.34375 L 700 70 L 793.34375 233.34375 L 735 233.34375 L 735 273.6875 C 782.3362 288.55188 816.65625 332.75842 816.65625 385 C 816.65625 437.24147 782.3362 481.44811 735 496.3125 L 735 680 L 910 680 L 910 595 L 933.34375 595 L 933.34375 680 L 1120 680 L 1120 233.34375 L 1061.6562 233.34375 L 1155 70 L 1248.3438 233.34375 L 1190 233.34375 L 1190 680 L 1355 680 C 1368.85 680 1380 668.85 1380 655 L 1380 45 C 1380 31.15 1368.85 20 1355 20 L 933.34375 20 L 933.34375 105 L 910 105 L 910 20 L 490 20 z M 910 128.34375 L 933.34375 128.34375 L 933.34375 198.34375 L 910 198.34375 L 910 128.34375 z M 910 221.65625 L 933.34375 221.65625 L 933.34375 291.65625 L 910 291.65625 L 910 221.65625 z M 910 315 L 933.34375 315 L 933.34375 385 L 910 385 L 910 315 z M 910 408.34375 L 933.34375 408.34375 L 933.34375 478.34375 L 910 478.34375 L 910 408.34375 z M 910 501.65625 L 933.34375 501.65625 L 933.34375 571.65625 L 910 571.65625 L 910 501.65625 z "
+       id="rect9536"
+       transform="translate(0,352.36218)" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       d="m 638.24396,710.10959 c -2.5885,0 -5.0128,1.28485 -6.4603,3.43082 l -12.215,18.10351 c -0.8676,1.28625 -1.3261,2.80385 -1.3261,4.35552 l 0,23.94326 c 0,4.30034 3.4861,7.78645 7.7864,7.78645 l 7.0321,0 c 0.4076,-8.6681 7.5582,-15.5729 16.3271,-15.5729 8.7691,0 15.9197,6.9048 16.3273,15.5729 l 60.7828,0 c 0.2919,-6.20865 4.0387,-11.50625 9.3681,-14.01563 l -67.7907,0 0,-35.8176 c 0,-4.30033 -3.486,-7.78633 -7.7864,-7.78633 z m 0.4136,4.6718 17.7385,0 c 2.1501,0 3.8932,1.743 3.8932,3.89316 l 0,10.9011 c 0,2.15017 -1.7431,3.89317 -3.8932,3.89317 l -25.0991,0 c -2.1502,0 -3.8932,-1.743 -3.8932,-3.89317 0,-0.77583 0.2353,-1.53463 0.6691,-2.17781 l 7.3485,-10.90099 c 0.7238,-1.07298 1.942,-1.71546 3.2362,-1.71546 z"
+       id="path7050-5"
+       sodipodi:nodetypes="sccssscsccccssssssssssccs" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       d="m 680.53396,686.75024 c -4.3137,0 -7.7864,3.4727 -7.7864,7.78645 0,18.7684 0,38.34226 0,54.50503 l 101.2236,0 c 0,-17.8759 0,-37.6474 0,-54.50503 0,-4.31375 -3.4728,-7.78645 -7.7864,-7.78645 z"
+       id="rect6193-8"
+       sodipodi:nodetypes="sccccss" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       d="m 742.82536,755.27079 c -7.3106,0 -13.2369,5.92643 -13.2369,13.237 0,7.31056 5.9263,13.23688 13.2369,13.23688 7.3106,0 13.237,-5.92632 13.237,-13.23688 0,-7.31057 -5.9264,-13.237 -13.237,-13.237 z m 0,6.22918 c 3.8703,0 7.0078,3.13752 7.0078,7.00782 0,3.8703 -3.1375,7.0077 -7.0078,7.0077 -3.8703,0 -7.0077,-3.1374 -7.0077,-7.0077 0,-3.8703 3.1374,-7.00782 7.0077,-7.00782 z"
+       id="path7038-7"
+       sodipodi:nodetypes="ssssssssss" />
+    <path
+       id="rect7057-5"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       d="m 759.15266,767.72915 c -0.292,-6.20865 -4.0388,-11.50625 -9.3681,-14.01563 l 24.1866,0 0,14.01563 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path7062-9"
+       d="m 649.38816,755.27079 c -7.3104,0 -13.2368,5.92643 -13.2368,13.237 0,7.31056 5.9264,13.23688 13.2368,13.23688 7.3106,0 13.237,-5.92632 13.237,-13.23688 0,-7.31057 -5.9264,-13.237 -13.237,-13.237 z m 0,6.22918 c 3.8703,0 7.0079,3.13752 7.0079,7.00782 0,3.8703 -3.1376,7.0077 -7.0079,7.0077 -3.8703,0 -7.0077,-3.1374 -7.0077,-7.0077 0,-3.8703 3.1374,-7.00782 7.0077,-7.00782 z"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssssssss" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       d="m 700.00006,620.69544 c -64.4332,0 -116.6667,52.23342 -116.6667,116.66666 0,64.43314 52.2335,116.66655 116.6667,116.66655 64.4331,0 116.6667,-52.23341 116.6667,-116.66655 0,-64.43324 -52.2336,-116.66666 -116.6667,-116.66666 z m 0,19.72519 c 53.539,0 96.9414,43.40233 96.9414,96.94147 0,53.53904 -43.4024,96.94137 -96.9414,96.94137 -53.5391,0 -96.9415,-43.40233 -96.9415,-96.94137 0,-53.53914 43.4024,-96.94147 96.9415,-96.94147 z"
+       id="path4775-9-2"
+       sodipodi:nodetypes="ssssssssss" />
+  </g>
+</svg>

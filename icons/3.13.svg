@@ -1,185 +1,28 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="600"
-   height="600"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="3.13.svg">
-  <title
-     id="title3002">3.13 Ограничение высоты</title>
-  <defs
-     id="defs4">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath13815">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 56.525,723.725 187.1,0 0,-187.1 -187.1,0 0,187.1 z"
-         id="path13817" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath13823">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 56.52499,536.625 187.10001,0 0,187.10001 -187.10001,0 0,-187.10001 z"
-         id="path13825" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath13831">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 56.525,723.725 187.1,0 0,-187.1 -187.1,0 0,187.1 z"
-         id="path13833" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath13841">
-      <path
-         inkscape:connector-curvature="0"
-         d="m -0.302,-2.868 3.18001,0 0,4.5 -3.18001,0 0,-4.5 z"
-         id="path13843" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath13849">
-      <path
-         inkscape:connector-curvature="0"
-         d="M 0,1 1,1 1,0 0,0 0,1 z"
-         id="path13851" />
-    </clipPath>  
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" width="600.00007" height="600.00004" viewBox="0 0 600.00007 600.00004">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: red;
+      }
+    </style>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.89833331"
-     inkscape:cx="298.98556"
-     inkscape:cy="307.37555"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
-     inkscape:window-maximized="1"
-     inkscape:object-paths="true"
-     inkscape:snap-text-baseline="true" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>3.13 Ограничение высоты</dc:title>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
-        <dc:description>ГОСТ Р 52290-2004
-Размеры и пропорции по типоразмеру I</dc:description>
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-452.36218)">
-    <path
-       sodipodi:type="arc"
-       style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path5334"
-       sodipodi:cx="-87.720657"
-       sodipodi:cy="432.25998"
-       sodipodi:rx="22.107042"
-       sodipodi:ry="29.465372"
-       d="m -65.613615,432.25998 a 22.107042,29.465372 0 0 1 -22.107042,29.46537 22.107042,29.465372 0 0 1 -22.107043,-29.46537 22.107042,29.465372 0 0 1 22.107043,-29.46537 22.107042,29.465372 0 0 1 22.107042,29.46537 z"
-       transform="matrix(13.570336,0,0,10.181443,1490.3988,-3648.6681)"
-       inkscape:export-xdpi="299.99997"
-       inkscape:export-ydpi="299.99997" />
-    <path
-       transform="matrix(13.525102,0,0,10.147505,1486.4308,-3633.998)"
-       d="m -65.613615,432.25998 a 22.107042,29.465372 0 0 1 -22.107042,29.46537 22.107042,29.465372 0 0 1 -22.107043,-29.46537 22.107042,29.465372 0 0 1 22.107043,-29.46537 22.107042,29.465372 0 0 1 22.107042,29.46537 z"
-       sodipodi:ry="29.465372"
-       sodipodi:rx="22.107042"
-       sodipodi:cy="432.25998"
-       sodipodi:cx="-87.720657"
-       id="path3003"
-       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.17071831000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
-       sodipodi:type="arc" />
-    <path
-       style="opacity:1;color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 300 10 C 139.83742 10 10 139.83742 10 300 C 10 460.16258 139.83742 590 300 590 C 460.16258 590 590 460.16258 590 300 C 590 139.83742 460.16258 10 300 10 z M 300 59.03125 C 433.0828 59.03125 540.96875 166.91719 540.96875 300 C 540.96875 433.08281 433.0828 540.96875 300 540.96875 C 166.9172 540.96875 59.03125 433.08281 59.03125 300 C 59.03125 166.91719 166.9172 59.03125 300 59.03125 z "
-       transform="translate(0,452.36218)"
-       id="path4775-9"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none"
-       d="m 241.93555,529.78145 58.06452,58.06451 58.06452,-58.06451 z"
-       id="path7699"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-    <path
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
-       id="path7701"
-       d="m 241.93555,974.94273 58.06452,-58.06451 58.06452,58.06451 z"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
-    <g
-       style="font-size:293.78259277px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:-17.8064518px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial;image-rendering:optimizeSpeed"
-       id="text14291">
-      <path
-         d="m 306.90371,727.69709 c -5.07676,0.12815 -9.30067,1.87774 -12.67173,5.24878 -3.3711,3.37111 -5.12069,7.59501 -5.24878,12.67173 0.0986,4.63262 1.58572,8.57633 4.46134,11.83116 2.87558,3.25483 6.54795,5.22953 11.01713,5.9241 l -16.06603,25.43023 13.51383,0 c 2.05948,-2.99539 5.72559,-8.82926 10.99834,-17.50165 5.27267,-8.67241 8.60828,-14.54989 10.00684,-17.63247 0.49798,-1.2647 0.9358,-2.56166 1.31346,-3.89089 0.37757,-1.3292 0.57627,-2.71603 0.5961,-4.16048 -0.12815,-5.07671 -1.87775,-9.30062 -5.24879,-12.67173 -3.37112,-3.37105 -7.59502,-5.12064 -12.67171,-5.24878 z"
-         style="fill:#000000;font-family:Russian Road Sign;-inkscape-font-specification:Russian Road Sign"
-         id="path14332" />
-      <path
-         d="m 431.1723,624.28695 8.2258,-26.73387 -94.59677,0 0,80.20162 18.50806,10.28225 c 2.0564,-1.41374 5.14108,-3.72725 9.25403,-6.94053 4.11285,-3.21312 9.25398,-5.01251 15.42339,-5.39818 9.2968,0.38568 16.40869,3.72741 21.33568,10.02521 4.92682,6.29795 7.4117,13.23847 7.45465,20.82157 -0.51421,10.2823 -4.62711,17.99399 -12.33871,23.13508 -7.71177,5.14116 -15.93757,7.71172 -24.67742,7.71169 -6.9161,0.0796 -13.86886,-0.44676 -20.8583,-1.57906 -6.98951,-1.13224 -13.06094,-3.34782 -18.21429,-6.64674 l 4.11291,26.73387 c 0.47125,0.34275 4.66983,1.71372 12.59577,4.1129 7.92586,2.39919 16.75145,3.77016 26.47681,4.11291 19.75042,-0.42843 35.25947,-6.25504 46.52721,-17.47985 11.26753,-11.22478 17.00845,-25.27718 17.22279,-42.15725 -0.64276,-16.53723 -6.04095,-29.21867 -16.19456,-38.04436 -10.15384,-8.82551 -21.20725,-13.28115 -33.16028,-13.36693 -4.8413,-0.0856 -9.70089,0.5999 -14.57877,2.05645 -4.87801,1.45676 -8.92971,4.19869 -12.1551,8.2258 l 0,-39.07258 z"
-         style="fill:#000000;font-family:Russian Road Sign;-inkscape-font-specification:Russian Road Sign"
-         id="path14334" />
+  <g>
+    <g>
+      <path class="cls-1" d="M300.00342,598.999A298.999,298.999,0,0,1,88.57568,88.5752,299,299,0,0,1,511.4248,511.42578,297.05015,297.05015,0,0,1,300.81689,599Z" transform="translate(-0.00001)"/>
+      <path d="M300.00052,2A297.91065,297.91065,0,0,1,510.71408,510.72259a296.04945,296.04945,0,0,1-209.08762,87.27633h-1.629A297.99848,297.99848,0,0,1,89.283,89.28235,297.06014,297.06014,0,0,1,300.00052,2m-.00006-2A300.00157,300.00157,0,0,0,0,300.00351c.00166,165.68457,134.31641,299.997,300.00042,299.99541.27694.00076.54074.00112.81762.00112A298.04987,298.04987,0,0,0,512.1322,512.13292c117.15717-117.1575,117.15717-307.10735,0-424.26482A299.06029,299.06029,0,0,0,300.00046,0Z" transform="translate(-0.00001)"/>
     </g>
-    <g
-       style="font-size:224.65725708000002000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       id="text14295">
-      <path
-         d="m 251.25005,888.8136 18.87096,0 4.71774,-61.33064 25.16129,50.32257 25.16129,-50.32257 4.71774,61.33064 18.87097,0 -7.8629,-88.06451 -18.87097,0 -22.01613,44.03225 -22.01612,-44.03225 -18.87097,0 z"
-         style="fill:#000000;font-family:Russian Road Sign;-inkscape-font-specification:Russian Road Sign"
-         id="path14454" />
+    <path class="cls-2" d="M300,10C139.84,10,10,139.84,10,300S139.84,590,300,590,590,460.16,590,300,460.16,10,300,10Zm0,49c133.08,0,241,107.89,241,241S433.08,541,300,541,59,433.08,59,300,166.92,59,300,59Z" transform="translate(-0.00001)"/>
+    <path d="M241.94045,77.42051l58.06,58.06,58.06-58.06Z" transform="translate(-0.00001)"/>
+    <path d="M241.94045,522.58053l58.06-58.06,58.06,58.06Z" transform="translate(-0.00001)"/>
+    <g>
+      <path d="M253.124,145.17678V252.19485h22.63867l-9.4082,24.69677H255.18257v32.9292h-28.8125v-32.9292H148.164V252.19485l80.26367-107.01807ZM179.03463,252.19485h47.33544V188.39553Z" transform="translate(-0.00001)"/>
+      <path d="M306.90044,275.3305a17.92,17.92,0,0,0-2.44,35.67l-16.06,25.44h13.51q3.09-4.49,11-17.5t10-17.63c.5-1.27.94-2.56,1.32-3.89a15.8894,15.8894,0,0,0,.59-4.16,17.91,17.91,0,0,0-17.89-17.93Z" transform="translate(-0.00001)"/>
+      <path d="M431.17046,171.92051l8.23-26.73h-94.6v80.2l18.51,10.28q3.09-2.11,9.25-6.94t15.44-5.39q13.93.57,21.33,10a33.38,33.38,0,0,1,7.46,20.82q-.78,15.44-12.34,23.14a43.71009,43.71009,0,0,1-24.69,7.7,121.661,121.661,0,0,1-20.86-1.58,47.35994,47.35994,0,0,1-18.21-6.65l4.11,26.74q.7.51,12.6,4.11a103.72,103.72,0,0,0,26.47,4.11q29.63-.63,46.53-17.48t17.22-42.15q-1-24.81-16.19-38t-33.16-13.36a47.53,47.53,0,0,0-14.58,2.05,24.00006,24.00006,0,0,0-12.15,8.21v-39.08Z" transform="translate(-0.00001)"/>
     </g>
-    <path
-       inkscape:connector-curvature="0"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299998;marker:none;enable-background:accumulate"
-       d="m 229.61823,597.06703 20.98922,0 0,108.9101 19.17678,0 -7.95135,25.10612 -9.47146,0 0,33.52159 -24.4387,0 0,-33.52159 -66.35868,0 0,-25.10612 z m -1.69551,43.97078 -40.16601,64.93932 40.16601,0 z"
-       id="rect9536"
-       sodipodi:nodetypes="cccccccccccccccc" />
+    <path d="M251.25045,436.45052h18.87l4.72-61.33,25.16,50.32,25.16-50.32,4.72,61.33h18.87l-7.86-88.06h-18.89l-22,44-22-44h-18.89Z" transform="translate(-0.00001)"/>
   </g>
 </svg>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="300"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="8.6.8.svg">
+  <title
+     id="title3006">8.6.8 Способ постановки транспортного средства на стоянку</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="371.40648"
+     inkscape:cy="149.31577"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>8.6.8 Способ постановки транспортного средства на стоянку</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004
+Размеры и пропорции по типоразмеру I</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-752.36218)">
+    <rect
+       y="752.36218"
+       x="0"
+       height="300"
+       width="600"
+       id="rect5622"
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       rx="45"
+       ry="45" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       d="M 45,10 C 25.61,10 10,25.61 10,45 l 0,208.125 215,2e-5 0,-28.125 L 590,225 590,45 C 590,25.61 574.39,10 555,10 z"
+       transform="translate(0,752.36218)"
+       id="rect9537"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssccccsss" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 482.33747,914.19178 c 16.4084,0 29.71022,13.3017 29.71022,29.7102 0,16.4085 -13.30182,29.7102 -29.71022,29.7102 -16.4085,0 -29.71022,-13.3017 -29.71022,-29.7102 0,-16.4085 13.30172,-29.7102 29.71022,-29.7102 z m 0,12.0255 c -9.76697,0 -17.68463,7.9177 -17.68463,17.6847 0,9.767 7.91766,17.6846 17.68463,17.6846 9.76697,0 17.68462,-7.9177 17.68462,-17.6846 0,-9.767 -7.91765,-17.6847 -17.68462,-17.6847 z"
+       id="path14176" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 282.85453,914.19178 c 16.4085,0 29.71022,13.3017 29.71022,29.7102 0,16.4085 -13.30172,29.7102 -29.71022,29.7102 -16.40855,0 -29.71027,-13.3017 -29.71027,-29.7102 0,-16.4085 13.30171,-29.7102 29.71027,-29.7102 z m 0,12.0255 c -9.76697,0 -17.68468,7.9177 -17.68468,17.6847 0,9.767 7.91771,17.6846 17.68468,17.6846 9.76697,0 17.68463,-7.9177 17.68463,-17.6846 0,-9.767 -7.91766,-17.6847 -17.68463,-17.6847 z"
+       id="path14180" />
+    <path
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 384.0625 65.625 C 380.33509 65.625 376.79213 67.18019 374.25 69.90625 L 327.4375 120.09375 C 325.33741 122.34575 322.51807 123.8214 319.46875 124.25 L 247.8125 134.3125 C 241.08912 135.2574 236.10025 141.0865 236.21875 147.875 L 236.6875 173.375 C 236.89656 179.3637 241.73316 184.10805 247.6875 184.28125 C 251.05134 168.03515 265.51031 155.8125 282.84375 155.8125 C 302.67075 155.8125 318.75 171.80195 318.75 191.53125 L 446.4375 191.53125 C 446.4375 171.80195 462.51675 155.8125 482.34375 155.8125 C 500.51128 155.8125 515.52013 169.2611 517.90625 186.6875 L 524.75 184.84375 C 528.92985 183.72385 532.0805 180.3102 532.90625 176.0625 L 539.9375 139.90625 C 540.71909 135.88535 539.6289 131.7396 536.96875 128.625 L 487.1875 70.34375 C 484.63394 67.35397 480.90062 65.625 476.96875 65.625 L 384.0625 65.625 z M 385.5625 76.25 L 477.78125 76.25 C 483.0006 76.25 487.43353 80.03235 488.25 85.1875 L 492.625 112.78125 C 493.54169 118.56935 489.56928 123.98955 483.78125 124.90625 C 483.23225 124.99325 482.68094 125.03125 482.125 125.03125 L 355.875 125.03125 C 351.18684 125.03125 347.40625 121.2506 347.40625 116.5625 C 347.40625 114.4137 348.222 112.35275 349.6875 110.78125 L 379.34375 78.9375 C 380.94932 77.21578 383.20835 76.25 385.5625 76.25 z "
+       transform="translate(0,752.36218)"
+       id="path14182" />
+  </g>
+</svg>

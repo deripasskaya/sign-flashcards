@@ -237,6 +237,9 @@ body {
   line-height: 1.5;
   color: #334155;
   margin: 0;
+  max-height: 150px;
+  overflow-y: auto;
+  padding-right: 4px;
 }
 
 /* ---------- Controls ---------- */

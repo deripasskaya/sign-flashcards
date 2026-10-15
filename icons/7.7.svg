@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="700"
+   height="1050"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="7.5.svg">
+  <title
+     id="title3002">7.7 Пункт питания</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="287.34564"
+     inkscape:cy="669.22898"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>7.7 Пункт питания</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004
+Размеры и пропорции по типоразмеру II</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-2.362183)">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       id="rect10481"
+       width="700"
+       height="1050"
+       x="0"
+       y="2.3621831"
+       rx="45"
+       ry="45" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;fill:#0d69e1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       d="m 45.000009,22.362155 c -13.85,0 -25,11.15 -25,25 l 0,960.000045 c 0,13.85 11.15,25 25,25 l 610.000001,0 c 13.85,0 25,-11.15 25,-25 l 0,-960.000045 c 0,-13.85 -11.15,-25 -25,-25 l -610.000001,0 z m 65.625001,155.000005 478.75,0 c 24.93,0 45,20.07 45,45 l 0,478.75 c 0,24.93 -20.07,45 -45,45 l -478.75,0 c -24.930001,0 -45.000001,-20.07 -45.000001,-45 l 0,-478.75 c 0,-24.93 20.07,-45 45.000001,-45 z"
+       id="rect10483" />
+    <rect
+       ry="44"
+       rx="44"
+       y="3.3621678"
+       x="1.0000153"
+       height="1048"
+       width="698"
+       id="rect10490"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1.99999988000000010;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1" />
+    <path
+       id="path10489"
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 251.5625,308.61217 c 0,6.04062 -4.89688,10.9375 -10.9375,10.9375 -6.04062,0 -10.9375,-4.89688 -10.9375,-10.9375 l 0,0 0,-87.5 -21.875,0 0,131.25 c 0,22.42463 13.49893,41.66809 32.8125,50.10742 l 0,278.01758 0,0 c 0,12.08122 9.79377,21.87499 21.875,21.87499 12.08122,0 21.875,-9.79377 21.875,-21.87499 l 0,-278.01758 c 19.31357,-8.43933 32.8125,-27.68279 32.8125,-50.10742 l 0,-131.25 -21.875,0 0,87.5 c 0,6.04062 -4.89688,10.9375 -10.9375,10.9375 -6.04062,0 -10.9375,-4.89688 -10.9375,-10.9375 l 0,0 0,-87.5 -21.875,0 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccccccsccccccsccccc" />
+    <path
+       id="path11268"
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63805968000000002;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 437.50001,505.48717 c -24.16246,0 -43.75001,-19.58753 -43.75001,-43.74999 l 0,0 0,-196.875 c 0,-24.16246 19.58755,-43.74999 43.75001,-43.74999 24.16246,0 43.75,19.58753 43.75,43.74999 l -10e-6,415.625 c 0,12.08121 -9.79378,21.87499 -21.875,21.87499 -12.08123,0 -21.875,-9.79378 -21.875,-21.87499 l 0,0 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccsccsccc" />
+  </g>
+</svg>

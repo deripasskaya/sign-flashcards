@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="300"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="8.4.8.svg">
+  <title
+     id="title3006">8.6.1 Способ постановки транспортного средства на стоянку</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="189.65412"
+     inkscape:cy="154.83603"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>8.6.1 Способ постановки транспортного средства на стоянку</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004
+Размеры и пропорции по типоразмеру I</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-752.36218)">
+    <rect
+       y="752.36218"
+       x="0"
+       height="300"
+       width="600"
+       id="rect5622"
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       rx="45"
+       ry="45" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       d="M 45 10 C 25.61 10 10 25.61 10 45 L 10 253.125 L 412.5 253.125 L 412.5 225 L 590 225 L 590 45 C 590 25.61 574.39 10 555 10 L 45 10 z "
+       transform="translate(0,752.36218)"
+       id="rect9537" />
+    <path
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 244.84375 73.125 C 240.48101 73.125 235.82847 76.43807 234.40625 80.5625 L 229.125 95.875 L 218.1875 127.53125 C 218.1775 127.56045 218.1981 127.5961 218.1875 127.625 L 215.625 135 C 209.3925 135 204.375 140.0175 204.375 146.25 L 204.375 191.25 C 204.375 197.4825 209.3925 202.5 215.625 202.5 L 384.375 202.5 C 390.6075 202.5 395.625 197.4825 395.625 191.25 L 395.625 146.25 C 395.625 140.0175 390.6075 135 384.375 135 L 381.8125 127.625 C 381.8025 127.5959 381.8229 127.56025 381.8125 127.53125 L 370.875 95.875 L 365.59375 80.5625 C 364.17136 76.43807 359.519 73.125 355.15625 73.125 L 300 73.125 L 244.84375 73.125 z M 248.28125 84.375 L 300 84.375 L 351.71875 84.375 C 353.90001 84.375 356.25764 86.03154 356.96875 88.09375 L 373.125 135 L 300 135 L 226.875 135 L 243.0625 88.09375 C 243.77362 86.03154 246.09999 84.375 248.28125 84.375 z "
+       transform="translate(0,752.36218)"
+       id="path13952" />
+    <path
+       id="path13954"
+       d="m 215.62502,960.48718 0,22.5 c 0,9.3198 7.55522,16.875 16.875,16.875 9.31977,0 16.87499,-7.5552 16.87499,-16.875 l 0,-22.5 -33.74999,0 z"
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 350.62502,960.48718 0,22.5 c 0,9.3198 7.55522,16.875 16.875,16.875 9.31978,0 16.875,-7.5552 16.875,-16.875 l 0,-22.5 -33.75,0 z"
+       id="path13962" />
+  </g>
+</svg>

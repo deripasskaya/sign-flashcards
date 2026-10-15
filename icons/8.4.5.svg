@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="300"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="8.4.5.svg">
+  <title
+     id="title3006">8.4.5 Вид транспортного средства</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="378.57982"
+     inkscape:cy="176.80397"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>8.4.5 Вид транспортного средства</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004
+Размеры и пропорции по типоразмеру I</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-752.36218)">
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       id="rect8328"
+       width="600"
+       height="300"
+       x="0"
+       y="752.36212"
+       rx="45"
+       ry="45" />
+    <rect
+       ry="35"
+       rx="35"
+       y="762.36218"
+       x="10"
+       height="280"
+       width="580"
+       id="rect8330"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1" />
+    <path
+       id="path7760"
+       d="m 184.47481,935.60094 c -21.18141,0 -38.35232,17.17092 -38.35232,38.35232 0,21.18133 17.17091,38.35224 38.35232,38.35224 21.1814,0 38.35232,-17.17091 38.35232,-38.35224 0,-21.1814 -17.17092,-38.35232 -38.35232,-38.35232 z m 0,19.94321 c 10.16706,0 18.40911,8.24204 18.40911,18.40911 0,10.16707 -8.24204,18.40905 -18.40911,18.40905 -10.16708,0 -18.40912,-8.24198 -18.40912,-18.40905 0,-10.16707 8.24204,-18.40911 18.40912,-18.40911 z"
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path7762"
+       d="m 391.19379,904.91909 c -29.65396,0 -53.69324,24.03929 -53.69324,53.69325 0,29.65393 24.03928,53.69316 53.69324,53.69316 29.65396,0 53.69325,-24.03923 53.69325,-53.69316 0,-29.65396 -24.03929,-53.69325 -53.69325,-53.69325 z m 0,23.0114 c 16.94513,0 30.68186,13.73672 30.68186,30.68185 0,16.94511 -13.73673,30.68181 -30.68186,30.68181 -16.94511,0 -30.68185,-13.7367 -30.68185,-30.68181 0,-16.94513 13.73674,-30.68185 30.68185,-30.68185 z"
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.34593630000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 332.53872,789.86216 c -6.27269,0 -11.90877,3.81208 -14.2383,9.63601 l -26.82265,67.06862 -38.35231,0 0,-61.3637 -15.34093,0 0,61.3637 -53.69324,0 c -8.49887,0 -15.34093,6.84205 -15.34093,15.34092 l 0,48.80332 c 4.9084,-1.78526 10.19893,-2.78054 15.72445,-2.78054 20.03616,0 37.06624,12.81015 43.38606,30.68185 l 101.96922,0 c 0,-33.89025 27.47346,-61.3637 61.3637,-61.3637 7.43555,0 14.54904,1.33864 21.14172,3.76331 l 9.54014,-19.10424 -7.67046,-15.34092 0,-61.3637 c 0,-8.47257 -6.86837,-15.34093 -15.34093,-15.34093 l -66.32554,0 z m 5.20153,15.34093 45.78308,0 c 4.23629,0 7.67046,3.43417 7.67046,7.67045 l 0,46.02278 c 0,4.23628 -3.43417,7.67047 -7.67046,7.67047 l -64.19219,0 c -4.23628,0 -7.67046,-3.43419 -7.67046,-7.67047 0,-0.97581 0.18891,-1.94644 0.55132,-2.85245 l 18.4091,-46.02277 c 1.16485,-2.91219 3.98264,-4.81801 7.11915,-4.81801 z"
+       id="path7764"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

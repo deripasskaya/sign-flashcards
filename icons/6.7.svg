@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="6.6.svg">
+  <title
+     id="title3006">6.7 Надземный пешеходный переход</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="303.37049"
+     inkscape:cy="301.22225"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>6.7 Надземный пешеходный переход</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004
+Размеры и пропорции по типоразмеру I</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-452.36218)">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.99999975999999990;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       id="rect6880"
+       width="600"
+       height="600"
+       x="0"
+       y="452.36218"
+       ry="45"
+       rx="45" />
+    <rect
+       rx="44"
+       ry="44"
+       y="453.36218"
+       x="1"
+       height="598"
+       width="598"
+       id="rect3844-6"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1" />
+    <path
+       style="opacity:1;color:#000000;fill:#0d69e1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 45 20 C 31.15 20 20 31.15 20 45 L 20 380 L 130 380 L 130 420 L 240 420 L 240 460 L 350 460 L 350 500 L 460 500 L 460 540 L 580 540 L 580 45 C 580 31.15 568.85 20 555 20 L 45 20 z M 276.3125 49.15625 C 303.58381 49.15625 310.84375 68.4987 310.84375 79.8125 C 310.84375 106.6941 276.55645 116.40625 263.09375 116.40625 C 244.40373 116.40625 236.8125 99.4047 236.8125 86.3125 C 236.8125 71.2341 249.50374 49.15625 276.3125 49.15625 z M 295.03125 121.1875 C 298.42773 121.15785 301.83605 121.9856 304.90625 123.6875 L 370.46875 160.03125 C 372.16675 160.97235 373.4053 162.58505 373.875 164.46875 L 391.03125 233.21875 C 393.16905 241.79285 387.9491 250.4873 379.375 252.625 C 370.801 254.7628 362.10645 249.54285 359.96875 240.96875 L 346.1875 185.71875 C 345.7178 183.83515 344.5104 182.22235 342.8125 181.28125 L 308.4375 162.25 L 322.34375 249.90625 C 323.08925 254.61305 320.71475 259.274 316.46875 261.4375 L 219 311.09375 L 219 395.5 C 219 405.4411 210.94113 413.5 201 413.5 C 191.05888 413.5 183 405.4411 183 395.5 L 183 294.5625 C 183 291.1782 184.89077 288.06765 187.90625 286.53125 L 258.09375 250.78125 C 260.73576 249.43505 262.23079 246.5648 261.84375 243.625 L 249.71875 151.46875 C 249.19082 147.45875 251.12225 143.5223 254.625 141.5 L 285.1875 123.84375 C 288.2276 122.08855 291.63477 121.21715 295.03125 121.1875 z M 241.46875 180.75 L 246.0625 215.59375 L 205.125 241.1875 C 197.63118 245.8702 187.74517 243.58765 183.0625 236.09375 C 178.37984 228.59995 180.66242 218.7451 188.15625 214.0625 L 241.46875 180.75 z M 311.40625 277.46875 L 338.71875 432.375 C 340.44505 442.1651 333.915 451.49255 324.125 453.21875 C 314.3349 454.94505 305.00755 448.4151 303.28125 438.625 L 277.875 294.5625 L 311.40625 277.46875 z M 20 420 L 20 555 C 20 568.85 31.15 580 45 580 L 440 580 L 440 540 L 330 540 L 330 500 L 220 500 L 220 460 L 110 460 L 110 420 L 20 420 z "
+       transform="translate(0,452.36218)"
+       id="rect9536" />
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700" version="1.1">
+<title>5.5 Дорога с односторонним движением</title>
+<rect style="fill:#ffffff;" x="0" y="0" width="700" height="700" rx="45" ry="45"/>
+<rect style="fill:none;stroke:#000000;stroke-width:2px;" x="1" y="1" width="698" height="698" rx="44" ry="44"/>
+<path style="fill:#0d69e1;" d="m 45,680 c -13.807,0 -25,-11.193 -25,-25 l 0,-610 c 0,-13.807 11.193,-25 25,-25 l 610,0 c 13.807,0 25,11.193 25,25 l 0,610 c 0,13.807 -11.193,25 -25,25 l -235,0 l 0,-283.333 l 116.667,0 l -186.667,-323.555 l -186.667,323.555 l 116.667,0 l 0,283.333 z"/>
+</svg>

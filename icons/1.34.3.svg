@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200">
+<path fill="#FFF" stroke="#000" stroke-width="3" d="m0,0h900v200H0z"/>
+<path fill="#F00" d="m14,100 73-83h-73v166h73m72,0-73-83 73-83h146l-73
+83 73,83m72,0-73-83 73-83h146l73,83-73,83m72,0 73-83-73-83h146l73
+83-73,83m72,0 73-83-73-83h72v166"/>
+</svg>
