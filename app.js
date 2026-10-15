@@ -28,7 +28,7 @@
     deck: [],
     index: 0,
     flipped: false,
-    shuffled: false,
+    shuffled: true,
     hideKnown: false,
     known: new Set(),
     unknown: new Set(),
@@ -120,6 +120,11 @@
       [arr[i], arr[j]] = [arr[j], arr[i]];
     }
     return arr;
+  }
+
+  function syncShuffleButton() {
+    el.btnShuffle.classList.toggle("is-active", state.shuffled);
+    el.btnShuffle.textContent = state.shuffled ? "🔀 Перемешано" : "🔀 Перемешать";
   }
 
   // ---------- Отрисовка ----------
@@ -265,8 +270,7 @@
     state.category = "all";
     state.shuffled = false;
     state.hideKnown = false;
-    el.btnShuffle.classList.remove("is-active");
-    el.btnShuffle.textContent = "🔀 Перемешать";
+    syncShuffleButton();
     el.hideKnown.checked = false;
     buildDeck(true);
     const i = state.deck.findIndex((s) => s.id === id);
@@ -385,8 +389,7 @@
 
   el.btnShuffle.addEventListener("click", () => {
     state.shuffled = !state.shuffled;
-    el.btnShuffle.classList.toggle("is-active", state.shuffled);
-    el.btnShuffle.textContent = state.shuffled ? "🔀 Перемешано" : "🔀 Перемешать";
+    syncShuffleButton();
     buildDeck(true);
   });
 
@@ -419,5 +422,6 @@
 
   // ---------- Старт ----------
   loadProgress();
+  syncShuffleButton();
   buildDeck(true);
 })();
