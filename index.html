@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Дорожные знаки — флеш-карточки</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar__inner">
+      <div class="brand">
+        <span class="brand__mark">🚦</span>
+        <div>
+          <h1>Дорожные знаки</h1>
+          <p class="brand__sub">Флеш-карточки для изучения ПДД</p>
+        </div>
+      </div>
+      <div class="stats" id="stats">
+        <div class="stat stat--known">
+          <span class="stat__value" id="stat-known">0</span>
+          <span class="stat__label">знаю</span>
+        </div>
+        <div class="stat stat--unknown">
+          <span class="stat__value" id="stat-unknown">0</span>
+          <span class="stat__label">не знаю</span>
+        </div>
+        <div class="stat">
+          <span class="stat__value" id="stat-total">0</span>
+          <span class="stat__label">всего</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <nav class="filters" id="filters" aria-label="Категории знаков"></nav>
+
+  <main class="stage">
+    <div class="progress">
+      <div class="progress__bar"><div class="progress__fill" id="progress-fill"></div></div>
+      <div class="progress__text" id="progress-text">0 / 0</div>
+    </div>
+
+    <div class="card" id="card" tabindex="0" role="button"
+         aria-label="Карточка знака. Нажмите, чтобы перевернуть.">
+      <div class="card__inner" id="card-inner">
+        <div class="card__face card__face--front">
+          <span class="card__id" id="front-id">—</span>
+          <span class="card__status" id="front-status" hidden></span>
+          <div class="card__image-wrap">
+            <img id="front-img" alt="Дорожный знак" draggable="false" />
+          </div>
+          <span class="card__hint">Нажмите, чтобы перевернуть</span>
+        </div>
+        <div class="card__face card__face--back">
+          <span class="card__id" id="back-id">—</span>
+          <div class="card__back-body">
+            <div class="card__name" id="back-name"></div>
+            <span class="card__cat" id="back-cat"></span>
+            <p class="card__note" id="back-note"></p>
+          </div>
+          <span class="card__hint">Нажмите, чтобы вернуть</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="controls">
+      <button class="btn btn--icon" id="btn-prev" title="Предыдущий (←)" aria-label="Предыдущий">←</button>
+      <button class="btn btn--ghost" id="btn-flip" title="Перевернуть (Пробел)">Перевернуть</button>
+      <button class="btn btn--icon" id="btn-next" title="Следующий (→)" aria-label="Следующий">→</button>
+    </div>
+
+    <div class="controls controls--grade">
+      <button class="btn btn--unknown" id="btn-unknown" title="Не знаю (↓)">
+        <span>✗</span> Не знаю
+      </button>
+      <button class="btn btn--know" id="btn-know" title="Знаю (↑)">
+        <span>✓</span> Знаю
+      </button>
+    </div>
+
+    <div class="toolbar">
+      <button class="chip chip--primary" id="btn-summary">📊 Сводка прогресса</button>
+      <button class="chip" id="btn-shuffle" title="Перемешать набор">🔀 Перемешать</button>
+      <label class="chip chip--toggle">
+        <input type="checkbox" id="hide-known" />
+        Только невыученные
+      </label>
+      <button class="chip" id="btn-reset" title="Сбросить прогресс">♻️ Сбросить прогресс</button>
+    </div>
+
+    <p class="hint">
+      Горячие клавиши: <kbd>←</kbd> <kbd>→</kbd> — навигация, <kbd>Пробел</kbd> — перевернуть,
+      <kbd>↑</kbd> — «знаю», <kbd>↓</kbd> — «не знаю».
+    </p>
+  </main>
+
+  <footer class="footer">
+    <p>
+      Знаки предоставлены в формате SVG:
+      <a href="https://gist.github.com/a1ip/9615037176378b044ea80030761113e0" target="_blank" rel="noopener">gist a1ip</a>.
+      Прогресс сохраняется в вашем браузере.
+    </p>
+  </footer>
+
+  <!-- Сводная таблица прогресса -->
+  <div class="modal" id="modal" hidden>
+    <div class="modal__backdrop" data-close></div>
+    <div class="modal__panel" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <header class="modal__head">
+        <h2 id="modal-title">Сводка прогресса</h2>
+        <button class="modal__close" data-close aria-label="Закрыть">✕</button>
+      </header>
+
+      <div class="modal__overall">
+        <div class="modal__overall-bar"><div class="modal__overall-fill" id="overall-fill"></div></div>
+        <div class="modal__overall-text" id="overall-text">0%</div>
+      </div>
+
+      <div class="modal__counts" id="modal-counts"></div>
+
+      <div class="modal__tabs" id="modal-tabs"></div>
+
+      <div class="modal__table-wrap">
+        <table class="sign-table">
+          <thead>
+            <tr>
+              <th class="col-sign">Знак</th>
+              <th class="col-num">№</th>
+              <th class="col-name">Название</th>
+              <th class="col-status">Статус</th>
+            </tr>
+          </thead>
+          <tbody id="modal-tbody"></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <script src="signs.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2250"
+   height="500"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="1.34.3.A.svg">
+  <title
+     id="title3002">1.34.3.A Направление поворота</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="1097.9338"
+     inkscape:cy="313.15799"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>1.34.3 Направление поворота</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004
+Размеры и пропорции по типоразмеру II</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-552.36212)">
+    <rect
+       style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect20588"
+       width="2250"
+       height="500"
+       x="0"
+       y="552.36212" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path20578"
+       d="M 217.74194,594.02876 36.290323,802.3621 l 181.451617,208.3333 -181.451617,0 0,-416.66664 z"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none"
+       d="m 762.09677,594.02876 -181.45161,208.33334 181.45161,208.3333 -362.90322,0 L 217.74194,802.3621 399.19355,594.02876 z"
+       id="path20580"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path20582"
+       d="m 1487.9032,594.02876 181.4516,208.33334 -181.4516,208.3333 362.9033,0 181.4516,-208.3333 -181.4516,-208.33334 z"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path20584"
+       d="m 2032.2581,594.02876 181.4516,208.33334 -181.4516,208.3335 181.4516,0 0,-416.66684 z"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none"
+       d="m 943.54839,594.02876 -181.45162,208.33334 181.45162,208.3333 362.90321,0 181.4516,-208.3333 -181.4516,-208.33334 z"
+       id="path20586"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="553.36212"
+       x="1"
+       height="498"
+       width="2248"
+       id="rect19964"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1" />
+  </g>
+</svg>
