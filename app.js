@@ -264,6 +264,15 @@
   }
 
   function renderProgress() {
+    // в режиме «только невыученные» колода тает на глазах, поэтому показываем
+    // не позицию в ней, а сколько знаков категории уже выучено
+    if (state.hideKnown) {
+      const scope = activeSet().filter(inCategory);
+      const known = scope.filter((s) => state.known.has(s.id)).length;
+      el.progressText.textContent = `Выучено ${known} из ${scope.length}`;
+      el.progressFill.style.width = scope.length ? (known / scope.length) * 100 + "%" : "0%";
+      return;
+    }
     const total = state.deck.length;
     const pos = total ? state.index + 1 : 0;
     el.progressText.textContent = `${pos} / ${total}`;
@@ -313,13 +322,25 @@
     saveProgress();
 
     if (state.hideKnown) {
-      buildDeck(false);
-    } else {
-      renderCard();
+      state.flipped = false;
+      if (status === "known") {
+        // карточка ушла из колоды: следующая встала на её место, поэтому
+        // двигаться вперёд не нужно (иначе пропускается каждая вторая)
+        state.deck.splice(state.index, 1);
+        if (state.index >= state.deck.length) state.index = 0;
+      } else if (state.deck.length > 1) {
+        // «Не знаю» — карточка остаётся в колоде, идём к следующей
+        state.index = (state.index + 1) % state.deck.length;
+      }
+      render();
+      return;
     }
+
+    state.flipped = false;
+    renderCard();
     renderStats();
-    renderProgress();
     if (state.deck.length > 1) next(1);
+    else renderProgress();
   }
 
   function jumpTo(id) {
