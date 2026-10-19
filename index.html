@@ -59,6 +59,7 @@
             <div class="card__name" id="back-name"></div>
             <span class="card__cat" id="back-cat"></span>
             <p class="card__note" id="back-note"></p>
+            <p class="card__warn" id="back-warn" hidden></p>
           </div>
           <span class="card__hint">Нажмите, чтобы вернуть</span>
         </div>
@@ -88,6 +89,15 @@
         Только невыученные
       </label>
       <button class="chip" id="btn-reset" title="Сбросить прогресс">♻️ Сбросить прогресс</button>
+    </div>
+
+    <div class="scopebar">
+      <span class="scopebar__label">Набор знаков</span>
+      <div class="scope" id="scope" role="group" aria-label="Набор знаков">
+        <button class="scope__btn" data-scope="core">Основные <span class="scope__count" id="scope-count-core"></span></button>
+        <button class="scope__btn" data-scope="all">Все знаки <span class="scope__count" id="scope-count-all"></span></button>
+      </div>
+      <span class="scopebar__hint">по умолчанию — основные</span>
     </div>
 
     <p class="hint">
@@ -140,6 +150,7 @@
   </div>
 
   <script src="signs.js"></script>
+  <script src="core-signs.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

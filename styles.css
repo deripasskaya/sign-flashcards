@@ -114,6 +114,60 @@ body {
 }
 .filter.is-active .filter__count { background: #e2e8f0; color: var(--ink); }
 
+/* ---------- Набор знаков (основные / все) — второстепенный переключатель ---------- */
+.scopebar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 2px;
+  padding-top: 14px;
+  border-top: 1px dashed rgba(255, 255, 255, 0.12);
+}
+.scopebar__label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #64748b;
+}
+.scopebar__hint { font-size: 11.5px; color: #475569; }
+
+.scope {
+  display: inline-flex;
+  gap: 2px;
+  padding: 3px;
+  border-radius: 999px;
+  background: rgba(15, 23, 42, 0.55);
+  border: 1px solid rgba(255, 255, 255, 0.09);
+}
+.scope__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: 0;
+  background: transparent;
+  color: #94a3b8;
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 12.5px;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+.scope__btn:hover { color: #e2e8f0; }
+.scope__btn.is-active {
+  background: rgba(96, 165, 250, 0.2);
+  color: #dbeafe;
+  font-weight: 600;
+  box-shadow: inset 0 0 0 1px rgba(96, 165, 250, 0.45);
+}
+.scope__count {
+  font-size: 10.5px;
+  padding: 0 6px;
+  border-radius: 999px;
+  background: rgba(148, 163, 184, 0.2);
+}
+.scope__btn.is-active .scope__count { background: rgba(96, 165, 250, 0.3); color: #eff6ff; }
+
 /* ---------- Stage ---------- */
 .stage {
   width: 100%;
@@ -241,6 +295,19 @@ body {
   overflow-y: auto;
   padding-right: 4px;
 }
+.card__warn {
+  font-size: 13.5px;
+  line-height: 1.45;
+  color: #92400e;
+  background: #fef3c7;
+  border: 1px solid #fde68a;
+  border-radius: 10px;
+  padding: 8px 12px;
+  margin: 12px 0 0;
+  max-height: 120px;
+  overflow-y: auto;
+}
+.card__warn::before { content: "⚠️ "; }
 
 /* ---------- Controls ---------- */
 .controls { display: flex; gap: 10px; align-items: stretch; }

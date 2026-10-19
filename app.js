@@ -5,10 +5,12 @@
   const ALL = Array.isArray(window.SIGN_DATA) ? window.SIGN_DATA.slice() : [];
   const ICON_DIR = "icons/";
   const STORAGE_KEY = "road-signs-progress-v2";
+  const SCOPE_KEY = "road-signs-scope-v1";
+  const CORE_IDS = new Set(Array.isArray(window.CORE_IDS) ? window.CORE_IDS : []);
 
   // ---------- Категории ----------
   const CATEGORIES = [
-    { key: "all", label: "Все знаки" },
+    { key: "all", label: "Все категории" },
     { key: "warning", label: "Предупреждающие" },
     { key: "priority", label: "Приоритета" },
     { key: "prohibition", label: "Запрещающие" },
@@ -27,6 +29,7 @@
 
   // ---------- Состояние ----------
   const state = {
+    scope: "core",
     category: "all",
     deck: [],
     index: 0,
@@ -69,6 +72,17 @@
     return "todo";
   }
 
+  function loadScope() {
+    try {
+      const v = localStorage.getItem(SCOPE_KEY);
+      if (v === "core" || v === "all") state.scope = v;
+    } catch (e) { /* игнорируем */ }
+  }
+
+  function saveScope() {
+    try { localStorage.setItem(SCOPE_KEY, state.scope); } catch (e) { /* игнорируем */ }
+  }
+
   // ---------- DOM ----------
   const el = {
     filters: document.getElementById("filters"),
@@ -80,6 +94,7 @@
     backName: document.getElementById("back-name"),
     backCat: document.getElementById("back-cat"),
     backNote: document.getElementById("back-note"),
+    backWarn: document.getElementById("back-warn"),
     progressFill: document.getElementById("progress-fill"),
     progressText: document.getElementById("progress-text"),
     statKnown: document.getElementById("stat-known"),
@@ -100,15 +115,23 @@
     modalCounts: document.getElementById("modal-counts"),
     modalTabs: document.getElementById("modal-tabs"),
     modalTbody: document.getElementById("modal-tbody"),
+    scope: document.getElementById("scope"),
+    scopeCountCore: document.getElementById("scope-count-core"),
+    scopeCountAll: document.getElementById("scope-count-all"),
   };
 
   // ---------- Набор карточек ----------
+  // активный набор: «основные» или «все знаки»
+  function activeSet() {
+    return state.scope === "core" ? ALL.filter((s) => CORE_IDS.has(s.id)) : ALL;
+  }
+
   function inCategory(sign) {
     return state.category === "all" || sign.category === state.category;
   }
 
   function buildDeck(resetPosition) {
-    let list = ALL.filter(inCategory);
+    let list = activeSet().filter(inCategory);
     if (state.hideKnown) list = list.filter((s) => !state.known.has(s.id));
     if (state.shuffled) list = shuffle(list.slice());
     state.deck = list;
@@ -130,6 +153,26 @@
     el.btnShuffle.textContent = state.shuffled ? "🔀 Перемешано" : "🔀 Перемешать";
   }
 
+  function renderScope() {
+    const coreCount = ALL.filter((s) => CORE_IDS.has(s.id)).length;
+    if (el.scopeCountCore) el.scopeCountCore.textContent = coreCount;
+    if (el.scopeCountAll) el.scopeCountAll.textContent = ALL.length;
+    el.scope.querySelectorAll(".scope__btn").forEach((b) => {
+      b.classList.toggle("is-active", b.dataset.scope === state.scope);
+    });
+  }
+
+  function setScope(scope) {
+    if (scope !== "core" && scope !== "all") return;
+    if (state.scope === scope) return;
+    state.scope = scope;
+    state.flipped = false;
+    saveScope();
+    renderScope();
+    buildDeck(true);
+    renderStats();
+  }
+
   // ---------- Отрисовка ----------
   function render() {
     renderFilters();
@@ -140,8 +183,9 @@
 
   function renderFilters() {
     el.filters.innerHTML = "";
+    const set = activeSet();
     CATEGORIES.forEach((cat) => {
-      const total = cat.key === "all" ? ALL.length : ALL.filter((s) => s.category === cat.key).length;
+      const total = cat.key === "all" ? set.length : set.filter((s) => s.category === cat.key).length;
       const btn = document.createElement("button");
       btn.className = "filter" + (state.category === cat.key ? " is-active" : "");
       btn.innerHTML = `${cat.label} <span class="filter__count">${total}</span>`;
@@ -177,6 +221,8 @@
           : '<div class="empty-msg"><strong>Нет знаков</strong>В этой категории пока нет карточек.</div>';
       el.backCat.textContent = "";
       el.backNote.textContent = "";
+      el.backWarn.hidden = true;
+      el.backWarn.textContent = "";
       setControlsEnabled(false);
       return;
     }
@@ -205,6 +251,13 @@
     el.backName.textContent = sign.name;
     el.backCat.textContent = sign.categoryName;
     el.backNote.textContent = sign.note || "";
+    if (sign.warn) {
+      el.backWarn.hidden = false;
+      el.backWarn.textContent = sign.warn;
+    } else {
+      el.backWarn.hidden = true;
+      el.backWarn.textContent = "";
+    }
 
     el.btnKnow.textContent = st === "known" ? "✓ Знаю" : "✓ Знаю";
     el.btnUnknown.textContent = st === "unknown" ? "✗ Не знаю" : "✗ Не знаю";
@@ -218,7 +271,7 @@
   }
 
   function renderStats() {
-    const scope = ALL.filter(inCategory);
+    const scope = activeSet().filter(inCategory);
     const known = scope.filter((s) => state.known.has(s.id)).length;
     const unknown = scope.filter((s) => state.unknown.has(s.id)).length;
     el.statKnown.textContent = known;
@@ -305,9 +358,10 @@
   ];
 
   function counts() {
-    const known = ALL.filter((s) => state.known.has(s.id)).length;
-    const unknown = ALL.filter((s) => state.unknown.has(s.id)).length;
-    return { known, unknown, todo: ALL.length - known - unknown, total: ALL.length };
+    const set = activeSet();
+    const known = set.filter((s) => state.known.has(s.id)).length;
+    const unknown = set.filter((s) => state.unknown.has(s.id)).length;
+    return { known, unknown, todo: set.length - known - unknown, total: set.length };
   }
 
   function openSummary() {
@@ -347,7 +401,7 @@
       el.modalTabs.appendChild(b);
     });
 
-    const rows = ALL.filter((s) => {
+    const rows = activeSet().filter((s) => {
       if (state.summaryFilter === "all") return true;
       return statusOf(s.id) === state.summaryFilter;
     });
@@ -396,6 +450,10 @@
     buildDeck(true);
   });
 
+  el.scope.querySelectorAll(".scope__btn").forEach((b) => {
+    b.addEventListener("click", () => setScope(b.dataset.scope));
+  });
+
   el.hideKnown.addEventListener("change", (e) => {
     state.hideKnown = e.target.checked;
     state.flipped = false;
@@ -425,6 +483,8 @@
 
   // ---------- Старт ----------
   loadProgress();
+  loadScope();
   syncShuffleButton();
+  renderScope();
   buildDeck(true);
 })();
